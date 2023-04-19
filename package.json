@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AMIHbKA.github.io/filmoteka-js-project",
+  "homepage": "https://GoitStudentsWorks.github.io/js_71_AMIHbKA",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /filmoteka-js-project/"
+    "build": "parcel build src/*.html --public-url /js_71_AMIHbKA/"
   },
   "repository": {
     "type": "git",
